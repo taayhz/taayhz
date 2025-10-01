@@ -6,6 +6,8 @@
   
   <p align="center">
     Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFSP em Bragança Paulista - SP
+  </p>
+  <p>
     Estou no 1º semestre de ADS e muito ansiosa para o decorrer do curso!
   </p>
 
