@@ -1,13 +1,13 @@
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Olá, Tudo bem? Eu sou a 
     <a href="https://www.linkedin.com/in/lucas-gabriel-nogueira-dos-santos">Tayná Silva 😃️</a>
   </h1>
   
   <p align="center">
     Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFSP em Bragança Paulista - SP
   </p>
-  <p>
+  <p align="center">
     Estou no 1º semestre de ADS e muito ansiosa para o decorrer do curso!
   </p>
 
